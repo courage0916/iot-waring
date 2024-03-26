@@ -12,7 +12,7 @@ Additionally, if you have any projects that require development, you can also co
 ## Login（登录）
 ## Device Management（设备管理）
 ## User Management（用户管理）
-
+## Administrator reminder configuration（管理员提醒配置）
 # Renderings（效果图）
 ## English（英语）
 
