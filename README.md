@@ -81,3 +81,9 @@ If you want to invite the author for a cup of coffee, you can also use the follo
 ## English（英语）
 
 ## Chinese（中文）
+# Collaboration notes（合作备注）
+## If you have some development project requirements and happen to think I am suitable, you can contact me for communication. The project requires a contract to be signed, and I hope you have the spirit of the contract, not frequently mentioning requirements beyond those agreed upon outside the contract, or paying additional fees for these requirements according to the contract agreement.
+## 如果您有一些开发项目的需求，又恰好觉得我合适，可以联系沟通。项目需要签合同，并且我希望您能有契约精神，不经常提超出合同外所约定的需求，或者按照合同协议额外的给这些需求付费。
+## There are two forms of cooperation, one is not providing source code, and the other is providing source code. The price of not providing source code will be slightly lower. The way of providing source code involves a supplementary agreement, which is that the buyer of this source code needs 30% modification to resell, and the seller also needs 30% modification to resell. Both buyers and sellers have the right to continue developing and customizing the source code
+## 合作分为两种形式，一种是不提供源码的，一种是提供源码的，不提供源码的价格会稍低，提供源码的方式蕴含着一个补充协议，就是这个源码买方需要有30%改动才能转卖，卖方也需要有30%改动才能转卖。买卖双方都对源码拥有继续开发定制的权利
+
