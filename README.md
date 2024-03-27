@@ -48,9 +48,7 @@ If you want to invite the author for a cup of coffee, you can also use the follo
 
 如果想请作者喝杯咖啡，也可以通过下面渠道：
 
-支付宝：![cf412d20e9c34cf6544d27dabca6887](https://github.com/courage0916/iot-waring/assets/43770682/f2ba1745-352a-4361-bf7d-e23c79b238c4)
-
-微信：![微信截图_20240327140213](https://github.com/courage0916/iot-waring/assets/43770682/1f195582-833b-4dc8-b818-5954ba19f230)
+支付宝：![image](https://github.com/courage0916/iot-waring/assets/43770682/07df66f8-4e50-4969-b3e4-012c5abede9a) 微信：![微信截图_20240327140213](https://github.com/courage0916/iot-waring/assets/43770682/1f195582-833b-4dc8-b818-5954ba19f230)
 
 # Function Introduction（功能介绍）
 ## 1：Login（登录）
