@@ -91,4 +91,14 @@ If you want to invite the author for a cup of coffee, you can also use the follo
 ## 如果您有一些开发项目的需求，又恰好觉得我合适，可以联系沟通。项目需要签合同，并且我希望您能有契约精神，不经常提超出合同外所约定的需求，或者按照合同协议额外的给这些需求付费。
 ## There are two forms of cooperation, one is not providing source code, and the other is providing source code. The price of not providing source code will be slightly lower. The way of providing source code involves a supplementary agreement, which is that the buyer of this source code needs 30% modification to resell, and the seller also needs 30% modification to resell. Both buyers and sellers have the right to continue developing and customizing the source code
 ## 合作分为两种形式，一种是不提供源码的，一种是提供源码的，不提供源码的价格会稍低，提供源码的方式蕴含着一个补充协议，就是这个源码买方需要有30%改动才能转卖，卖方也需要有30%改动才能转卖。买卖双方都对源码拥有继续开发定制的权利
+# Why is it necessary to sign a contract（为什么必签合同）
+## Cases of losses（亏损的案例）
+![29821a53b2c66b4db692a35a815255e](https://github.com/courage0916/iot-waring/assets/43770682/56be7155-e3aa-414b-a89f-4d862e0cf54d)
+![d31c4304b81cee16346ba73878654ce](https://github.com/courage0916/iot-waring/assets/43770682/7dde7a7c-17b9-480b-8232-6be8f997ed43)
+![63babbf3d785ff171d18d82aff8f807](https://github.com/courage0916/iot-waring/assets/43770682/e8ba3ebf-64e5-4a39-89e7-9aa05dbd8dcb)
+![79cef59c5d8324865c73a3c16ef202d](https://github.com/courage0916/iot-waring/assets/43770682/af1f9f44-7fbd-4aa6-97b4-7c3b47e0e3cf)
+
+
+
+
 
