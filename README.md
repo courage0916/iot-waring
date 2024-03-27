@@ -81,6 +81,12 @@ If you want to invite the author for a cup of coffee, you can also use the follo
 ## English（英语）
 
 ## Chinese（中文）
+![微信截图_20240327135229](https://github.com/courage0916/iot-waring/assets/43770682/35c0f3bf-7f5f-4923-881b-770af3e16483)
+![微信截图_20240327135506](https://github.com/courage0916/iot-waring/assets/43770682/20e94b58-59c6-470c-92bb-856538aa1844)
+![微信截图_20240327135533](https://github.com/courage0916/iot-waring/assets/43770682/5c1bde5d-2724-4c79-944c-2d906d693daf)
+![image](https://github.com/courage0916/iot-waring/assets/43770682/5f1388f3-51d2-4a32-981c-88dd2c00dc64)
+![image](https://github.com/courage0916/iot-waring/assets/43770682/ebdd69b5-2ceb-432b-851b-2a28661abb8a)
+
 # Collaboration notes（合作备注）
 ## If you have some development project requirements and happen to think I am suitable, you can contact me for communication. The project requires a contract to be signed, and I hope you have the spirit of the contract, not frequently mentioning requirements beyond those agreed upon outside the contract, or paying additional fees for these requirements according to the contract agreement.
 ## 如果您有一些开发项目的需求，又恰好觉得我合适，可以联系沟通。项目需要签合同，并且我希望您能有契约精神，不经常提超出合同外所约定的需求，或者按照合同协议额外的给这些需求付费。
