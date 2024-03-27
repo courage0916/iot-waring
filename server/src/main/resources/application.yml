@@ -1,0 +1,39 @@
+
+server:
+  port: 9999
+  servlet:
+    context-path: /api
+#线程池配置
+spring:
+  main:
+    banner-mode: off
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/iot-waring?useSSL=false&serverTimezone=Asia/Shanghai&characterEncoding=utf-8&autoReconnect=true&allowPublicKeyRetrieval=true
+    username: root
+    password: 123456
+
+logging:
+  level:
+    com:
+      mapper: debug
+
+#配置mybatis的mapper映射文件
+mybatis:
+  mapper-locations: classpath*:mapper/*.xml
+  #驼峰命名
+  configuration:
+    map-underscore-to-camel-case: true
+    #log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+
+
+token:
+  signing:
+    key: 33B784E11BA66D1E8350FF7591EF4AE5B4895CC66826ADECF25EEE9B30D059C5
+  expiration: 60000
+  refreshExpiration: 240000
+
+serializer:
+  algorithm: 2
+
+
